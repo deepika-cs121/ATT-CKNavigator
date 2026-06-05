@@ -1,1 +1,1 @@
-# ATT-CK-Navigator-Purple-Team-Lab
+# ATT&CK-Navigator-Purple-Team-Lab
