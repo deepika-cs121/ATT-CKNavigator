@@ -1,0 +1,1 @@
+[2025-11-09T09:34:58Z] event=generated recipient=admin232@gmail.com template=basic file=outbox\admin232_20251109T093458.html notes="mail"
