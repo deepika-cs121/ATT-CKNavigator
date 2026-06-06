@@ -1,0 +1,12 @@
+{
+  "run_id": "run1762619004",
+  "target": "http://testphp.vulnweb.com",
+  "service": "http",
+  "mode": "dry-run",
+  "attack_mode": "spray",
+  "start_time": "2025-11-08T21:54:17.249580",
+  "end_time": "2025-11-08T21:54:52.483798",
+  "duration_sec": 35.234218,
+  "total_attempts": 35,
+  "total_successes": 7
+}
