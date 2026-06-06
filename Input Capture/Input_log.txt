@@ -1,0 +1,27 @@
+[2025-11-09 13:13:20] Capture started
+[2025-11-09 13:13:41] Key pressed: s
+[2025-11-09 13:13:41] Key pressed: t
+[2025-11-09 13:13:42] Key pressed: r
+[2025-11-09 13:13:42] Key pressed: i
+[2025-11-09 13:13:42] Key pressed: n
+[2025-11-09 13:13:42] Key pressed: g
+[2025-11-09 13:13:45] Special key pressed: Key.shift_r
+[2025-11-09 13:13:45] Key pressed: _
+[2025-11-09 13:13:47] Key pressed: =
+[2025-11-09 13:13:49] Special key pressed: Key.shift
+[2025-11-09 13:13:49] Key pressed: @
+[2025-11-09 13:13:50] Special key pressed: Key.ctrl_l
+[2025-11-09 13:13:50] Key pressed: None
+[2025-11-09 13:13:52] Special key pressed: Key.space
+[2025-11-09 13:13:52] Special key pressed: Key.space
+[2025-11-09 13:13:54] Special key pressed: Key.backspace
+[2025-11-09 13:13:56] Special key pressed: Key.shift_r
+[2025-11-09 13:13:56] Key pressed: ~
+[2025-11-09 13:13:59] Key pressed: `
+[2025-11-09 13:14:03] Key pressed: 8
+[2025-11-09 13:14:03] Key pressed: 9
+[2025-11-09 13:14:03] Key pressed: e
+[2025-11-09 13:14:05] Special key pressed: Key.shift_r
+[2025-11-09 13:14:05] Key pressed: $
+[2025-11-09 13:14:14] Special key pressed: Key.esc
+[2025-11-09 13:14:14] Capture stopped
