@@ -84,14 +84,14 @@ Detection Validation
 
 ## 🧪 Methodology
 
-1. **Lab Setup** – Configure Windows and Linux systems with Sysmon and Syslog.
-2. **Attack Simulation** – Generate test attacks using Atomic Red Team and custom scripts.
-3. **Detection Rules** – Develop YAML-based detection rules.
-4. **ATT&CK Mapping** – Map detections to ATT&CK tactics and techniques.
-5. **Incident Scoring** – Assign severity levels to incidents.
-6. **Visualization** – Display results through an interactive dashboard.
-7. **Reporting** – Generate ATT&CK-based PDF/HTML reports.
-8. **Testing & Validation** – Verify detections using simulated attacks.
+- **Lab Setup** – Configure Windows and Linux systems with Sysmon and Syslog.
+- **Attack Simulation** – Generate test attacks using Atomic Red Team and custom scripts.
+- **Detection Rules** – Develop YAML-based detection rules.
+- **ATT&CK Mapping** – Map detections to ATT&CK tactics and techniques.
+- **Incident Scoring** – Assign severity levels to incidents.
+- **Visualization** – Display results through an interactive dashboard.
+- **Reporting** – Generate ATT&CK-based PDF/HTML reports.
+- **Testing & Validation** – Verify detections using simulated attacks.
 
 ---
 
