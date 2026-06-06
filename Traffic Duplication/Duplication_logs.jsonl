@@ -1,0 +1,2 @@
+{"timestamp":"2025-11-09 11:30:23.957","role":"primary","method":"GET","path":"/","client":"127.0.0.1","upstream":"http://localhost:9000","status":200,"error":"","elapsed_ms":2068,"body_snippet":"dummy upstream on 127.0.0.1:9000\n"}
+{"timestamp":"2025-11-09 11:30:28.079","role":"secondary","method":"GET","path":"/","client":"127.0.0.1","upstream":"http://localhost:9001","status":200,"error":"","elapsed_ms":2049,"body_snippet":"dummy upstream on 127.0.0.1:9001\n"}
