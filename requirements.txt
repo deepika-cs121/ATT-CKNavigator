@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pyyaml
+jinja2
+sqlalchemy
+pandas
+networkx
+matplotlib
+reportlab
+python-multipart
