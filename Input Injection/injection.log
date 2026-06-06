@@ -1,0 +1,62 @@
+[2025-11-09 17:15:36] INFO Generated 14 payload templates (mode=mixed)
+[2025-11-09 17:15:36] INFO Attempt 1/20: type=unicode_combining encoder=unicode_escape target=DRY-RUN
+[2025-11-09 17:15:36] DEBUG Raw payload (first 300 chars): é (e with acute combining)
+[2025-11-09 17:15:36] DEBUG Encoded payload (first 300 chars): e\u0301 (e with acute combining)
+[2025-11-09 17:15:36] INFO Attempt 2/20: type=sql_like encoder=hex target=DRY-RUN
+[2025-11-09 17:15:36] DEBUG Raw payload (first 300 chars): fONWLV-SELECT * FROM users WHERE id = 1;-Z2uw
+[2025-11-09 17:15:36] DEBUG Encoded payload (first 300 chars): 664f4e574c562d53454c454354202a2046524f4d207573657273205748455245206964203d20313b2d5a327577
+[2025-11-09 17:15:36] INFO Attempt 3/20: type=unicode_combining encoder=identity target=DRY-RUN
+[2025-11-09 17:15:36] DEBUG Raw payload (first 300 chars): é (e with acute combining)
+[2025-11-09 17:15:36] DEBUG Encoded payload (first 300 chars): é (e with acute combining)
+[2025-11-09 17:15:36] INFO Attempt 4/20: type=number encoder=hex target=DRY-RUN
+[2025-11-09 17:15:36] DEBUG Raw payload (first 300 chars): 12345
+[2025-11-09 17:15:36] DEBUG Encoded payload (first 300 chars): 3132333435
+[2025-11-09 17:15:36] INFO Attempt 5/20: type=long_string encoder=unicode_escape target=DRY-RUN
+[2025-11-09 17:15:36] DEBUG Raw payload (first 300 chars): AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...
+[2025-11-09 17:15:36] DEBUG Encoded payload (first 300 chars): AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...
+[2025-11-09 17:15:36] INFO Attempt 6/20: type=hex_binary encoder=base64 target=DRY-RUN
+[2025-11-09 17:15:36] DEBUG Raw payload (first 300 chars): 00ff1080
+[2025-11-09 17:15:36] DEBUG Encoded payload (first 300 chars): MDBmZjEwODA=
+[2025-11-09 17:15:37] INFO Attempt 7/20: type=username encoder=unicode_escape target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): alice
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): alice
+[2025-11-09 17:15:37] INFO Attempt 8/20: type=long_string encoder=url target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): jDS0ws-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): jDS0ws-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA...
+[2025-11-09 17:15:37] INFO Attempt 9/20: type=plain_text encoder=base64 target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): Hello, this is a normal message.
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): SGVsbG8sIHRoaXMgaXMgYSBub3JtYWwgbWVzc2FnZS4=
+[2025-11-09 17:15:37] INFO Attempt 10/20: type=unicode_emoji encoder=hex target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): 😊🚀 Привет こんにちは
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): f09f988af09f9a8020d09fd180d0b8d0b2d0b5d18220e38193e38293e381abe381a1e381af
+[2025-11-09 17:15:37] INFO Attempt 11/20: type=rand_short encoder=base64 target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): BWg14R-t3eB5oZaSU0h-KDNj
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): QldnMTRSLXQzZUI1b1phU1UwaC1LRE5q
+[2025-11-09 17:15:37] INFO Attempt 12/20: type=sql_like encoder=hex target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): SELECT * FROM users WHERE id = 1;
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): 53454c454354202a2046524f4d207573657273205748455245206964203d20313b
+[2025-11-09 17:15:37] INFO Attempt 13/20: type=unicode_combining encoder=url target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): Xc3kV9-é (e with acute combining)-JOzg
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): Xc3kV9-e%CC%81%20%28e%20with%20acute%20combining%29-JOzg
+[2025-11-09 17:15:37] INFO Attempt 14/20: type=rand_short encoder=hex target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): t3eB5oZaSU0h
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): 74336542356f5a6153553068
+[2025-11-09 17:15:37] INFO Attempt 15/20: type=script_like encoder=base64 target=DRY-RUN
+[2025-11-09 17:15:37] DEBUG Raw payload (first 300 chars): <script>alert('x')</script>
+[2025-11-09 17:15:37] DEBUG Encoded payload (first 300 chars): PHNjcmlwdD5hbGVydCgneCcpPC9zY3JpcHQ+
+[2025-11-09 17:15:38] INFO Attempt 16/20: type=sql_like encoder=hex target=DRY-RUN
+[2025-11-09 17:15:38] DEBUG Raw payload (first 300 chars): lxCcF0-SELECT * FROM users WHERE id = 1;-KV6o
+[2025-11-09 17:15:38] DEBUG Encoded payload (first 300 chars): 6c78436346302d53454c454354202a2046524f4d207573657273205748455245206964203d20313b2d4b56366f
+[2025-11-09 17:15:38] INFO Attempt 17/20: type=hex_binary encoder=base64 target=DRY-RUN
+[2025-11-09 17:15:38] DEBUG Raw payload (first 300 chars): NZECoJ-00ff1080-MBTx
+[2025-11-09 17:15:38] DEBUG Encoded payload (first 300 chars): TlpFQ29KLTAwZmYxMDgwLU1CVHg=
+[2025-11-09 17:15:38] INFO Attempt 18/20: type=unicode_emoji encoder=base64 target=DRY-RUN
+[2025-11-09 17:15:38] DEBUG Raw payload (first 300 chars): OyqAg0-😊🚀 Привет こんにちは-fDMz
+[2025-11-09 17:15:38] DEBUG Encoded payload (first 300 chars): T3lxQWcwLfCfmIrwn5qAINCf0YDQuNCy0LXRgiDjgZPjgpPjgavjgaHjga8tZkRNeg==
+[2025-11-09 17:15:38] INFO Attempt 19/20: type=hex_binary encoder=url target=DRY-RUN
+[2025-11-09 17:15:38] DEBUG Raw payload (first 300 chars): 00ff1080
+[2025-11-09 17:15:38] DEBUG Encoded payload (first 300 chars): 00ff1080
+[2025-11-09 17:15:38] INFO Attempt 20/20: type=plain_text encoder=identity target=DRY-RUN
+[2025-11-09 17:15:38] DEBUG Raw payload (first 300 chars): Hello, this is a normal message.
+[2025-11-09 17:15:38] DEBUG Encoded payload (first 300 chars): Hello, this is a normal message.
+[2025-11-09 17:15:38] INFO Completed 20 attempts. Logfile: logs\injection.log  DB: logs\injection_logs.db
