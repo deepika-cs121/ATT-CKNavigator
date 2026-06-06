@@ -1,0 +1,5 @@
+2025-11-09 15:27:53,402	INFO	Run start: count=200 out=fake_identities.csv locale=en_US hash_passwords=False
+2025-11-09 15:27:53,605	INFO	Run complete: saved=200 rows to fake_identities.csv
+2025-11-09T15:29:30+0530	INFO	Run start: count=200 out=D:\Mitre Attack\fake_identities.csv locale=en_US hash_passwords=False log_entries=False
+2025-11-09T15:29:30+0530	INFO	Wrote CSV to D:\Mitre Attack\fake_identities.csv (rows=200)
+2025-11-09T15:29:30+0530	INFO	Run complete: saved=200 rows to D:\Mitre Attack\fake_identities.csv
