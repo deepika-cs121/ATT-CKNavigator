@@ -1,0 +1,29 @@
+PS D:\projects\AttackNavigator> python -m aiosmtpd -n -l localhost:1025
+---------- MESSAGE FOLLOWS ----------
+Content-Type: multipart/mixed; boundary="===============1371475560970980080=="
+MIME-Version: 1.0
+From: Admin <admin@gmail.com>
+To: garimamittal152@gmail.com
+Subject: =?utf-8?q?Important=3A_Security_Update_Required?=
+Date: Sat, 08 Nov 2025 23:15:58 
+X-Peer: ('::1', 16152, 0, 0)
+
+--===============1371475560970980080==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Your account requires an immediate security update. Please review the attached document and follow the instructions.
+
+Download: http://update.gmail.com/security-patch.exe
+
+This is a mandatory update for all employees.
+
+Regards,
+IT Department
+gmail.com
+
+--===============1371475560970980080==--
+------------ END MESSAGE ------------

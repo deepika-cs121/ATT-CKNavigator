@@ -1,0 +1,56 @@
+[
+  {
+    "domain": "gmail.com",
+    "record_type": "SPF",
+    "status": "found",
+    "record": "\"v=spf1 redirect=_spf.google.com\"",
+    "vulnerable": false
+  },
+  {
+    "domain": "gmail.com",
+    "record_type": "DMARC",
+    "status": "found",
+    "record": "\"v=DMARC1; p=none; sp=quarantine; rua=mailto:mailauth-reports@google.com\"",
+    "vulnerable": true
+  },
+  {
+    "domain": "gmail.com",
+    "record_type": "MX",
+    "status": "found",
+    "records": [
+      "alt2.gmail-smtp-in.l.google.com",
+      "gmail-smtp-in.l.google.com",
+      "alt4.gmail-smtp-in.l.google.com",
+      "alt3.gmail-smtp-in.l.google.com",
+      "alt1.gmail-smtp-in.l.google.com"
+    ],
+    "vulnerable": false
+  },
+  {
+    "domain": "gmail.com",
+    "record_type": "SPF",
+    "status": "found",
+    "record": "\"v=spf1 redirect=_spf.google.com\"",
+    "vulnerable": false
+  },
+  {
+    "domain": "gmail.com",
+    "record_type": "DMARC",
+    "status": "found",
+    "record": "\"v=DMARC1; p=none; sp=quarantine; rua=mailto:mailauth-reports@google.com\"",
+    "vulnerable": true
+  },
+  {
+    "domain": "gmail.com",
+    "record_type": "MX",
+    "status": "found",
+    "records": [
+      "alt2.gmail-smtp-in.l.google.com",
+      "gmail-smtp-in.l.google.com",
+      "alt4.gmail-smtp-in.l.google.com",
+      "alt3.gmail-smtp-in.l.google.com",
+      "alt1.gmail-smtp-in.l.google.com"
+    ],
+    "vulnerable": false
+  }
+]

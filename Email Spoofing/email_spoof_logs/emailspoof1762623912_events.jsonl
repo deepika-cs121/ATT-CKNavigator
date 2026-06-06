@@ -1,0 +1,12 @@
+{"timestamp": "2025-11-08T23:15:58.307627", "event_type": "header_analysis", "header": "From", "vulnerability": "Direct spoofing", "risk_level": "High", "description": "From header can be forged without authentication"}
+{"timestamp": "2025-11-08T23:15:58.308051", "event_type": "header_analysis", "header": "Reply-To", "vulnerability": "Reply-to spoofing", "risk_level": "Medium", "description": "Reply-To header can differ from From header"}
+{"timestamp": "2025-11-08T23:15:58.308465", "event_type": "header_analysis", "header": "Return-Path", "vulnerability": "Bounce spoofing", "risk_level": "Low", "description": "Return-Path can be set to attacker-controlled address"}
+{"timestamp": "2025-11-08T23:15:58.308832", "event_type": "header_analysis", "header": "Message-ID", "vulnerability": "ID spoofing", "risk_level": "Low", "description": "Message-ID can be forged to appear legitimate"}
+{"timestamp": "2025-11-08T23:15:58.310612", "event_type": "domain_impersonation", "original": "gmail.com", "impersonation": "gmail.cm", "risk": "High"}
+{"timestamp": "2025-11-08T23:15:58.311120", "event_type": "domain_impersonation", "original": "gmail.com", "impersonation": "gmail.co", "risk": "High"}
+{"timestamp": "2025-11-08T23:15:58.311517", "event_type": "domain_impersonation", "original": "gmail.com", "impersonation": "gmail.com", "risk": "High"}
+{"timestamp": "2025-11-08T23:15:58.312054", "event_type": "domain_impersonation", "original": "gmail.com", "impersonation": "gmail.com", "risk": "High"}
+{"timestamp": "2025-11-08T23:15:58.312403", "event_type": "domain_impersonation", "original": "gmail.com", "impersonation": "gmail.coms", "risk": "High"}
+{"timestamp": "2025-11-08T23:15:58.312773", "event_type": "domain_impersonation", "original": "gmail.com", "impersonation": "www-gmail.com", "risk": "High"}
+{"timestamp": "2025-11-08T23:15:58.313235", "event_type": "domain_impersonation", "original": "gmail.com", "impersonation": "gmail-com.com", "risk": "High"}
+{"attempt_id": "email_0000", "timestamp": "2025-11-08T23:16:00.666671", "from_email": "admin@gmail.com", "from_name": "Admin", "reply_to": null, "to_email": "garimamittal152@gmail.com", "subject": "Important: Security Update Required", "attack_type": "direct-spoofing", "result": "success", "error_message": null, "mode": "full-spoofing"}

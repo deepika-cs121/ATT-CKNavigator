@@ -1,0 +1,17 @@
+{
+  "run_id": "emailspoof1762623912",
+  "technique": "T1672 - Email Spoofing (AiTM)",
+  "target_domain": "gmail.com",
+  "attack_type": "direct-spoofing",
+  "mode": "full-spoofing",
+  "start_time": "2025-11-08T23:15:57.712891",
+  "end_time": "2025-11-08T23:16:00.668042",
+  "duration_sec": 2.955151,
+  "total_attempts": 1,
+  "successful_spoofs": 1,
+  "failed_spoofs": 0,
+  "dns_checks_performed": 6,
+  "vulnerable_dns_records": 2,
+  "security_score": 66.66666666666667,
+  "success_rate": 100.0
+}
