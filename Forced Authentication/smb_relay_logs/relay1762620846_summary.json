@@ -1,0 +1,15 @@
+{
+  "run_id": "relay1762620846",
+  "technique": "T1187 - Forced Authentication",
+  "target_network": "172.16.224.74",
+  "relay_target": "172.16.224.149",
+  "mode": "relay-attack",
+  "capture_method": "smb-listener",
+  "start_time": "2025-11-08T22:24:54.734340",
+  "end_time": "2025-11-08T22:25:18.026975",
+  "duration_sec": 23.292635,
+  "total_attempts": 11,
+  "hashes_captured": 11,
+  "successful_relays": 1,
+  "success_rate": 9.090909090909092
+}

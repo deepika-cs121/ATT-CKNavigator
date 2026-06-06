@@ -1,0 +1,7 @@
+{"timestamp": "2025-11-08T22:07:25.617576", "event_type": "smb_scan", "target_ip": "192.168.1.10", "port": 445, "hostname": "FILESERVER01", "signing_status": "disabled", "vulnerable": true}
+{"timestamp": "2025-11-08T22:07:26.118333", "event_type": "smb_scan", "target_ip": "192.168.1.15", "port": 445, "hostname": "DC01", "signing_status": "required", "vulnerable": false}
+{"timestamp": "2025-11-08T22:07:26.619131", "event_type": "smb_scan", "target_ip": "192.168.1.20", "port": 139, "hostname": "WORKSTATION05", "signing_status": "disabled", "vulnerable": true}
+{"timestamp": "2025-11-08T22:07:27.119895", "event_type": "smb_scan", "target_ip": "192.168.1.25", "port": 445, "hostname": "SHARE02", "signing_status": "disabled", "vulnerable": true}
+{"timestamp": "2025-11-08T22:07:27.623805", "event_type": "wpad_spoofing", "client_ip": "192.168.1.50", "wpad_url": "http://attacker.local/wpad.dat", "result": "captured", "authentication_captured": true}
+{"timestamp": "2025-11-08T22:07:28.954292", "event_type": "wpad_spoofing", "client_ip": "192.168.1.75", "wpad_url": "http://malicious.net/proxy.pac", "result": "captured", "authentication_captured": true}
+{"timestamp": "2025-11-08T22:07:30.450455", "event_type": "wpad_spoofing", "client_ip": "192.168.1.120", "wpad_url": "http://evil.corp/wpad.dat", "result": "failed", "authentication_captured": false}

@@ -1,0 +1,21 @@
+{
+  "run_id": "relay1762620846",
+  "config": {
+    "target_network": "172.16.224.74",
+    "smb_ports": [
+      445,
+      139
+    ],
+    "relay_target": "172.16.224.149",
+    "mode": "relay-attack",
+    "capture_method": "smb-listener",
+    "listener_port": 445,
+    "max_attempts": 100,
+    "worker_threads": 3,
+    "log_dir": "./smb_relay_logs",
+    "responsible_party": "",
+    "emergency_stop_file": "./STOP_RELAY"
+  },
+  "start_time": "2025-11-08T22:24:54.734340",
+  "user": "garim"
+}

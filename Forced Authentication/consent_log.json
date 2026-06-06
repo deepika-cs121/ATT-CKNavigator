@@ -1,0 +1,24 @@
+[
+    {
+        "timestamp": "2025-11-08T22:24:54.737236",
+        "user": "garim",
+        "responsible": "",
+        "target_network": "172.16.224.74",
+        "relay_target": "172.16.224.149",
+        "mode": "relay-attack",
+        "capture_method": "smb-listener",
+        "run_id": "relay1762620846",
+        "result": "started"
+    },
+    {
+        "timestamp": "2025-11-08T22:25:18.043624",
+        "user": "garim",
+        "responsible": "",
+        "target_network": "172.16.224.74",
+        "relay_target": "172.16.224.149",
+        "mode": "relay-attack",
+        "capture_method": "smb-listener",
+        "run_id": "relay1762620846",
+        "result": "completed"
+    }
+]

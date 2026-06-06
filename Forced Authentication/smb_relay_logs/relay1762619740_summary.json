@@ -1,0 +1,15 @@
+{
+  "run_id": "relay1762619740",
+  "technique": "T1187 - Forced Authentication",
+  "target_network": "172.16.224.74",
+  "relay_target": "Garima",
+  "mode": "live-capture",
+  "capture_method": "wpad-spoofing",
+  "start_time": "2025-11-08T22:07:25.614799",
+  "end_time": "2025-11-08T22:07:31.974157",
+  "duration_sec": 6.359358,
+  "total_attempts": 3,
+  "hashes_captured": 0,
+  "successful_relays": 0,
+  "success_rate": 0.0
+}
