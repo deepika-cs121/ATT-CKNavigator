@@ -1,0 +1,13 @@
+[2025-11-09 15:41:29] === Starting Encoding Script ===
+[2025-11-09 15:41:38] Original Data: cybersecurity
+[2025-11-09 15:41:38] UTF-8 Encoded: b'cybersecurity'
+[2025-11-09 15:41:38] Base64 Encoded: b'Y3liZXJzZWN1cml0eQ=='
+[2025-11-09 15:41:38] Base64 Decoded: cybersecurity
+[2025-11-09 15:41:38] ----- Standard Encoding Done -----
+
+[2025-11-09 15:41:47] Original Data: cybersecurity
+[2025-11-09 15:41:47] Custom Encoded (Caesar Shift 7): j\x80ilyzlj|yp{\x80
+[2025-11-09 15:41:47] Custom Decoded: cybersecurity
+[2025-11-09 15:41:47] ----- Non-Standard Encoding Done -----
+
+[2025-11-09 15:41:47] Script Finished
