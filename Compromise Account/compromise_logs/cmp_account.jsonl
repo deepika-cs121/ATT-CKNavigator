@@ -1,0 +1,9 @@
+No persistent secret key set. Using ephemeral key for this session only. Set COMP_ACCT_SECRET env var to enable persistent tamper-evidence.
+{"id": "bc93a06d-f00f-47df-96d8-8c37e6fba1a1", "account_type": "email", "account_id": "deepika29638@gmail.com", "timestamp": "5:40", "activity": "suspicious-activity", "ip": "192.168.1.6", "metadata": {}, "notes": "", "created_at": "2025-11-09T12:07:02.736742Z", "hmac": "26c51e4e6a514915978eb5ecb5b92387cc46b61b52ac7af0a601af3b49663017"}
+SMTP not enabled in CONFIG; skipping alert
+No persistent secret key set. Using ephemeral key for this session only. Set COMP_ACCT_SECRET env var to enable persistent tamper-evidence.
+{"id": "4e47798d-7239-4be1-9aff-84b55ff95a05", "account_type": "cloud", "account_id": "admin121", "timestamp": "5:48", "activity": "suspicious-activity", "ip": "192.168.1.5", "metadata": {}, "notes": "", "created_at": "2025-11-09T12:07:51.300709Z", "hmac": "c2f1eb4256745fe8e078f5c2d442660833c4ffedacdf65120ab866875056bf21"}
+SMTP not enabled in CONFIG; skipping alert
+No persistent secret key set. Using ephemeral key for this session only. Set COMP_ACCT_SECRET env var to enable persistent tamper-evidence.
+{"id": "6e779230-b366-4373-965c-7f230e5f1db7", "account_type": "social", "account_id": "cyberr", "timestamp": "6:09", "activity": "cbrsty", "ip": "127.0.0.1", "metadata": {}, "notes": "all well", "created_at": "2025-11-09T12:09:00.314215Z", "hmac": "1a2f8a31896760ec6d9ee68a2e84f6bc20b4e550c9072825034ef2f3210c0e27"}
+SMTP not enabled in CONFIG; skipping alert
